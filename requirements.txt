@@ -54,3 +54,4 @@ aliyun-python-sdk-kms>=2.6.0
 
 # Oracle Cloud Infrastructure Provider
 oci>=2.2.4
+cryptography>=3.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
